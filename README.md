@@ -1,4 +1,4 @@
-## Hi there 👋
+### Bom dia, Boa Tarde e Boa Noite Senhoras e Senhores 🤠
 
 <!--
 **andradeleo152/andradeleo152** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://media1.tenor.com/m/EeloF6xUk2gAAAAC/hello-kitty-hello-kitty-maromba.gif)
